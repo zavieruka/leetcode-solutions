@@ -1,0 +1,13 @@
+{
+  "name": "leetcode-solutions",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:zavieruka/leetcode-solutions.git",
+  "author": "zavieruka <zvkmateus@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/typescript": "^2.0.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+}
